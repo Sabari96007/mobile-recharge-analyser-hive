@@ -1,0 +1,61 @@
+recharge_id,customer_id,customer_name,mobile_number,operator,plan_type,recharge_amount,data_gb,validity_days,recharge_date,payment_method,location,status
+1001,201,Aarav Sharma,9820114521,Jio,Unlimited,239.00,1.50,28,2024-01-02,UPI,Mumbai,Success
+1002,202,Priya Patel,9811023847,Airtel,Unlimited,299.00,1.50,28,2024-01-03,Credit Card,Delhi,Success
+1003,203,Rohit Verma,9845039281,Vi,Data Booster,19.00,1.00,1,2024-01-04,UPI,Bengaluru,Success
+1004,204,Ananya Iyer,9840149201,BSNL,Basic Calling,147.00,10.00,30,2024-01-05,Debit Card,Chennai,Success
+1005,205,Vikram Singh,9830159384,Jio,Annual,2999.00,2.50,365,2024-01-06,UPI,Kolkata,Success
+1006,206,Sneha Reddy,9849069472,Airtel,Unlimited,719.00,1.50,84,2024-01-07,Wallet,Hyderabad,Success
+1007,207,Rajesh Kumar,9823078391,Vi,Unlimited,479.00,1.50,56,2024-01-08,Credit Card,Pune,Failed
+1008,208,Pooja Gupta,9825089203,BSNL,Talktime,99.00,0.00,15,2024-01-09,UPI,Ahmedabad,Success
+1009,209,Amit Shah,9814098234,Jio,Unlimited,666.00,1.50,84,2024-01-10,Debit Card,Jaipur,Success
+1010,210,Neha Joshi,9852109382,Airtel,Data Booster,58.00,3.00,1,2024-01-11,Wallet,Lucknow,Success
+1011,211,Karthik Nair,9847119283,Vi,Unlimited,299.00,1.50,28,2024-01-12,UPI,Kochi,Pending
+1012,212,Sunita Rao,9820129384,Jio,Unlimited,299.00,2.00,28,2024-01-13,Credit Card,Mumbai,Success
+1013,213,Deepak Mishra,9811139485,Airtel,Annual,1799.00,24.00,365,2024-01-14,UPI,Delhi,Success
+1014,214,Kavita Das,9830149586,BSNL,Unlimited,187.00,1.50,28,2024-01-15,Debit Card,Kolkata,Success
+1015,215,Suresh Menon,9840159687,Vi,Data Booster,29.00,2.00,2,2024-01-16,Wallet,Chennai,Success
+1016,216,Ritu Sen,9849169788,Jio,Unlimited,749.00,2.00,90,2024-01-17,UPI,Hyderabad,Success
+1017,217,Rahul Bose,9823179889,Airtel,Unlimited,839.00,2.00,84,2024-01-18,Credit Card,Pune,Success
+1018,218,Meera Pillai,9845189990,Vi,Basic Calling,99.00,0.20,15,2024-01-19,UPI,Bengaluru,Failed
+1019,219,Manoj Tiwari,9861199091,BSNL,Annual,1999.00,600.00,365,2024-01-20,Debit Card,Patna,Success
+1020,220,Divya Deshmukh,9822209192,Jio,Data Booster,15.00,1.00,1,2024-01-21,Wallet,Mumbai,Success
+1021,201,Aarav Sharma,9820114521,Jio,Data Booster,61.00,6.00,1,2024-01-22,UPI,Mumbai,Success
+1022,221,Manish Pandey,9811219293,Airtel,Unlimited,399.00,2.50,28,2024-01-23,UPI,Delhi,Success
+1023,222,Swati Kulkarni,9823229394,Vi,Unlimited,359.00,3.00,28,2024-01-24,Credit Card,Pune,Pending
+1024,223,Arjun Chawla,9814239495,Jio,Unlimited,239.00,1.50,28,2024-01-25,Debit Card,Jaipur,Success
+1025,224,Bhavna Bhatt,9825249596,BSNL,Unlimited,249.00,2.00,45,2024-01-26,UPI,Ahmedabad,Success
+1026,225,Gaurav Gill,9815259697,Airtel,Unlimited,549.00,2.00,56,2024-01-27,Wallet,Chandigarh,Success
+1027,226,Pallavi Hegde,9845269798,Vi,Data Booster,118.00,12.00,28,2024-01-28,UPI,Bengaluru,Success
+1028,227,Sanjay Nambiar,9847279899,BSNL,Basic Calling,107.00,3.00,35,2024-01-29,Debit Card,Kochi,Failed
+1029,228,Tanvi Saxena,9852289900,Jio,Unlimited,999.00,3.00,84,2024-01-30,Credit Card,Lucknow,Success
+1030,229,Harish Venkatesh,9840299011,Airtel,Unlimited,299.00,1.50,28,2024-01-31,UPI,Chennai,Success
+1031,230,Anita Mukherjee,9830309122,Vi,Annual,1449.00,1.50,180,2024-02-01,Debit Card,Kolkata,Success
+1032,202,Priya Patel,9811023847,Airtel,Data Booster,19.00,1.00,1,2024-02-02,Wallet,Delhi,Success
+1033,231,Naveen Goud,9849319233,Jio,Unlimited,349.00,2.50,30,2024-02-03,UPI,Hyderabad,Success
+1034,232,Shilpa Shetty,9820329344,Vi,Unlimited,479.00,1.50,56,2024-02-04,Credit Card,Mumbai,Success
+1035,233,Pradeep Soni,9829339455,BSNL,Unlimited,397.00,2.00,150,2024-02-05,UPI,Jaipur,Success
+1036,234,Kiran Mayi,9848349566,Airtel,Unlimited,719.00,1.50,84,2024-02-06,Debit Card,Hyderabad,Pending
+1037,235,Alok Chatterjee,9831359677,Jio,Unlimited,239.00,1.50,28,2024-02-07,Wallet,Kolkata,Success
+1038,236,Monika Rawat,9811369788,Vi,Data Booster,49.00,6.00,1,2024-02-08,UPI,Delhi,Success
+1039,237,Tarun Khanna,9814379899,Airtel,Unlimited,999.00,2.50,84,2024-02-09,Credit Card,Chandigarh,Success
+1040,238,Geeta Rane,9822389901,BSNL,Talktime,50.00,0.00,0,2024-02-10,Debit Card,Pune,Success
+1041,205,Vikram Singh,9830159384,Jio,Data Booster,121.00,12.00,30,2024-02-11,UPI,Kolkata,Success
+1042,239,Sameer Khan,9820399012,Airtel,Unlimited,299.00,1.50,28,2024-02-12,Wallet,Mumbai,Failed
+1043,240,Rekha Varma,9845409123,Vi,Unlimited,719.00,1.50,84,2024-02-13,UPI,Bengaluru,Success
+1044,241,Nilesh Jadhav,9823419234,Jio,Unlimited,666.00,1.50,84,2024-02-14,Debit Card,Pune,Success
+1045,242,Bina Roy,9830429345,BSNL,Unlimited,187.00,1.50,28,2024-02-15,Credit Card,Kolkata,Success
+1046,243,Chetan Somani,9825439456,Airtel,Unlimited,479.00,1.50,56,2024-02-16,UPI,Ahmedabad,Success
+1047,244,Archana Sundaram,9840449567,Vi,Data Booster,75.00,6.00,7,2024-02-17,Wallet,Chennai,Success
+1048,245,Abhishek Jha,9861459678,Jio,Annual,2999.00,2.50,365,2024-02-18,Credit Card,Patna,Success
+1049,246,Indira Krishnan,9847469789,BSNL,Basic Calling,94.00,3.00,30,2024-02-19,UPI,Kochi,Pending
+1050,247,Vinay Agarwal,9852479890,Airtel,Unlimited,839.00,2.00,84,2024-02-20,Debit Card,Lucknow,Success
+1051,206,Sneha Reddy,9849069472,Airtel,Data Booster,65.00,4.00,1,2024-02-21,Wallet,Hyderabad,Success
+1052,248,Madhu Balan,9840489901,Vi,Unlimited,299.00,1.50,28,2024-02-22,UPI,Chennai,Success
+1053,249,Pankaj Tripathi,9861499012,Jio,Unlimited,399.00,3.00,28,2024-02-23,UPI,Patna,Success
+1054,250,Komal Rajput,9811509123,BSNL,Unlimited,499.00,2.00,90,2024-02-24,Credit Card,Delhi,Success
+1055,209,Amit Shah,9814098234,Jio,Data Booster,25.00,2.00,1,2024-02-25,Wallet,Jaipur,Success
+1056,213,Deepak Mishra,9811139485,Airtel,Unlimited,359.00,2.00,28,2024-02-26,UPI,Delhi,Success
+1057,217,Rahul Bose,9823179889,Airtel,Data Booster,19.00,1.00,1,2024-02-27,UPI,Pune,Success
+1058,228,Tanvi Saxena,9852289900,Jio,Data Booster,51.00,6.00,1,2024-02-28,Wallet,Lucknow,Failed
+1059,233,Pradeep Soni,9829339455,BSNL,Talktime,220.00,0.00,0,2024-02-29,Debit Card,Jaipur,Success
+1060,205,Vikram Singh,9830159384,Jio,Unlimited,239.00,1.50,28,2024-03-01,UPI,Kolkata,Success
